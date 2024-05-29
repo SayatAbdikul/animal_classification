@@ -1,4 +1,4 @@
-# animal_classification_models
+# Models for animal classification
 This repo has some models for animal classification on dataset animals-10. Dataset is from here: https://www.kaggle.com/datasets/alessiocorrado99/animals10
 ## Models
 ### EfficientNet:
